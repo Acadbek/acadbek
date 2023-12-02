@@ -9,16 +9,6 @@
 </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31qvl3iltkv6u65ggjop4dh55g5y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qvl3iltkv6u65ggjop4dh55g5y&width=750&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <p align="center">
   <samp>
     <a href="https://nosirjonov.uz">website</a> .
