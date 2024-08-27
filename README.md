@@ -1,11 +1,13 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
-  <samp>
-    <a href="https://nosirjonov.uz">website</a> .
-    <a href="https://github.com/acadbek#js-contribution-activity">now</a> .
-    <a href="https://nosirjonov.uz/projects">projects</a> .
-    <a href="https://blaze.uz/">work</a> .
-    <a href="https://t.me/asad_nosirov">telegram</a>
+<div style={display: flex; align-items: start}>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
+    <samp>
+      <a href="https://nosirjonov.uz">website</a> .
+      <a href="https://github.com/acadbek#js-contribution-activity">now</a> .
+      <a href="https://nosirjonov.uz/projects">projects</a> .
+      <a href="https://blaze.uz/">work</a> .
+      <a href="https://t.me/asad_nosirov">telegram</a>
   </samp>
+</div>
 
 <p align="center">
     <a href="https://hits.sh/github.com/acadbek/">
