@@ -8,7 +8,7 @@
   </samp>
 </div>
 
-<details>
+<details> 
   <summary>WakaTime stats</summary>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acadbek&theme=radical" alt="WakaTime stats">
 </details>
