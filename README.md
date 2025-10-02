@@ -5,8 +5,8 @@
       <a href="https://nosirjonov.uz">projects</a> .
   </samp>
 </div>
-<!-- <br/>
+<br/>
 <details> 
   <summary>WakaTime stats</summary>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acadbek" alt="WakaTime stats">
-</details> -->
+</details>
