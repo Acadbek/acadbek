@@ -7,3 +7,8 @@
       <a href="https://t.me/kly404">telegram</a>
   </samp>
 </div>
+
+<details>
+  <summary>WakaTime stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acadbek" alt="WakaTime stats">
+</details>
