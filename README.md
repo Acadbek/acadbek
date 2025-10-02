@@ -10,5 +10,5 @@
 
 <details>
   <summary>WakaTime stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acadbek" alt="WakaTime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acadbek&theme=radical" alt="WakaTime stats">
 </details>
