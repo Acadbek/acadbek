@@ -1,9 +1,9 @@
-<div>
+<!-- <div>
     <samp>
       <a href="https://nosirjonov.uz">website</a> .
       <a href="https://github.com/acadbek#js-contribution-activity">now</a> .
   </samp>
-</div>
+</div> -->
 <!-- <br/>
 <details> 
   <summary>WakaTime stats</summary>
