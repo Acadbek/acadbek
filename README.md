@@ -1,12 +1,1 @@
-You can find more about me on my website → https://nosirjonov.uz
-<!-- <div>
-    <samp>
-      <a href="https://nosirjonov.uz">website</a> .
-      <a href="https://github.com/acadbek#js-contribution-activity">now</a> .
-  </samp>
-</div> -->
-<!-- <br/>
-<details> 
-  <summary>WakaTime stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acadbek" alt="WakaTime stats">
-</details> -->
+you can find more about me on my website → https://nosirjonov.uz
